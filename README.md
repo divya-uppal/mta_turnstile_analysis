@@ -16,14 +16,14 @@ Data:
 MTA Data for the year 2019, 2020 and 2021.
 
 Tools:
-● Panda and numpy for data manipulation
-● Sql for basic analysis on the data
-● Matplotlib for plotting
+- Panda and numpy for data manipulation
+- Sql for basic analysis on the data
+- Matplotlib for plotting
 
 Conclusion:
 I recommend Mac Flurry to open stores near Flushing Main or Jackson Height Roosevelt MTA stations due to following reasons:
-● More resilient to restrictions imposed by Covid
-● Highest return in MTA Traffic post lockdown
-● Higher percentage of workers not WFH
-● Low Real Estate Prices
-● Post Covid: Average Daily Entries as high as 42 Port Authority Station
+- More resilient to restrictions imposed by Covid
+- Highest return in MTA Traffic post lockdown
+- Higher percentage of workers not WFH
+- Low Real Estate Prices
+- Post Covid: Average Daily Entries as high as 42 Port Authority Station
